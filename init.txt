@@ -1,11 +1,5 @@
 init begin
 
-
-
 the first commit
 
 the second commit
-
-revert==1
-
-revert==2
